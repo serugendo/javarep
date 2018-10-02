@@ -20,7 +20,7 @@ public class SimpleGreetingService implements GreetingService {
 
 	@Override
 	public String getGreeting() {
-		return "Hello world!";
+		return "Hello world! My name us Patrice SERUGENDO";
 	}
 
 }
